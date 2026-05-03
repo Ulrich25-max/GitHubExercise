@@ -1,2 +1,2 @@
 # GitHubExercise
-This a repository for class for homework 13 in IT246
+This a repository for homework 13 in IT246
